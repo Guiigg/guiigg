@@ -17,6 +17,8 @@
 # Estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vonbu&psig=AOvVaw2AitpAVBo-9WN0JHM-J3Mz&ust=1709316942308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCw-veT0YQDFQAAAAAdAAAAABAe" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
 
